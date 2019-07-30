@@ -4,7 +4,7 @@
 #
 Name     : opencl-headers
 Version  : c5a4bbeabb10d8ed3d1c651b93aa31737bc473dd
-Release  : 2
+Release  : 3
 URL      : https://github.com/KhronosGroup/OpenCL-Headers/archive/c5a4bbeabb10d8ed3d1c651b93aa31737bc473dd.tar.gz
 Source0  : https://github.com/KhronosGroup/OpenCL-Headers/archive/c5a4bbeabb10d8ed3d1c651b93aa31737bc473dd.tar.gz
 Summary  : No detailed summary available
