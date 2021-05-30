@@ -1,2 +1,2 @@
-mkdir -p %{buildroot}/usr/include/CL
-install -m644 CL/* %{buildroot}/usr/include/CL
+#mkdir -p %{buildroot}/usr/include/CL
+#install -m644 CL/* %{buildroot}/usr/include/CL
